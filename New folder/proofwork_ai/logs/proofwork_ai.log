@@ -1,0 +1,926 @@
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_analyze_valid_input_succe0\market_data.json
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_analyze_returns_skill_gap0\market_data.json
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_analyze_returns_roadmap0\market_data.json
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_analyze_returns_ai_reason0\market_data.json
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_analyze_from_dict_basic0\market_data.json
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_analyze_empty_skills_fail0\market_data.json
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=[]
+2026-06-24 10:52:46 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:109 | analyze() | [SkillGapAgent] Validation failed: user_skills list cannot be empty.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_analyze_returns_correct_a0\market_data.json
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_analyze_duration_positive0\market_data.json
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:52:46 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_analyze_existing_skills_p0\market_data.json
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_analyze_groq_failure_uses0\market_data.json
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask']
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:52:47 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:192 | analyze() | [SkillGapAgent] AI roadmap generation failed; using deterministic fallback. Error: Groq is down
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=16ms
+2026-06-24 10:52:47 | ERROR    | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:265 | _load_market_data() | market_data.json not found at \nonexistent\path\market_data.json
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:126 | analyze() | [SkillGapAgent] No skill gaps detected — user has all top market skills.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_result_json_serializable0\market_data.json
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_get_market_data_returns_d0\market_data.json
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-0\test_user_has_all_market_skill0\market_data.json
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Docker', 'AWS', 'FastAPI', 'LangChain', 'LangGraph', 'Machine Learning', 'Kubernetes', 'React', 'TypeScript', 'Redis']
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:126 | analyze() | [SkillGapAgent] No skill gaps detected — user has all top market skills.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u1 | skill=Python
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u1 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u2 | skill=React
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u2 | overall=64.9 | status=PARTIALLY VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u3 | skill=Kubernetes
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u3 | overall=38.5 | status=NOT VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u4 | skill=Go
+2026-06-24 10:52:47 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:145 | _parse_component_scores() | 'component_scores' missing or malformed in AI response. Using zeros.
+2026-06-24 10:52:47 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:240 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 10:52:47 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:240 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u4 | overall=0.0 | status=NOT VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u5 | skill=Go
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u5 | overall=100.0 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u6 | skill=Go
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u6 | overall=0.0 | status=NOT VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u7 | skill=Python
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u7 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_uid_42 | skill=Python
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_uid_42 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u8 | skill=Python
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u8 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u9 | skill=Python
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u9 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=101 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=101 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=101 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id= | skill=
+2026-06-24 10:52:47 | WARNING  | proofwork_ai.agents.skill_verifier | skill_verifier.py:102 | verify() | [SkillVerificationAgent] Validation failed: user_id cannot be empty.; skill cannot be empty.; challenge_title cannot be empty.; submission_text must be at least 10 characters.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:193 | verify_from_dict() | SkillVerificationAgent: Failed to parse input dict: 'skill'
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:133 | verify() | [SkillVerificationAgent] Groq API call failed: Groq API is down
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:133 | verify() | [SkillVerificationAgent] Groq API call failed: Invalid JSON
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=16ms
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:52:47 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:52:47 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_analyze_valid_input_succe0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_analyze_returns_skill_gap0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_analyze_returns_roadmap0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_analyze_returns_ai_reason0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_analyze_from_dict_basic0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_analyze_empty_skills_fail0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=[]
+2026-06-24 10:55:04 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:109 | analyze() | [SkillGapAgent] Validation failed: user_skills list cannot be empty.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_analyze_returns_correct_a0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=16ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_analyze_duration_non_nega0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_analyze_existing_skills_p0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_analyze_groq_failure_uses0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:55:04 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:192 | analyze() | [SkillGapAgent] AI roadmap generation failed; using deterministic fallback. Error: Groq is down
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 10:55:04 | ERROR    | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:265 | _load_market_data() | market_data.json not found at \nonexistent\path\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:126 | analyze() | [SkillGapAgent] No skill gaps detected — user has all top market skills.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_result_json_serializable0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=16ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_get_market_data_returns_d0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-1\test_user_has_all_market_skill0\market_data.json
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Docker', 'AWS', 'FastAPI', 'LangChain', 'LangGraph', 'Machine Learning', 'Kubernetes', 'React', 'TypeScript', 'Redis']
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:126 | analyze() | [SkillGapAgent] No skill gaps detected — user has all top market skills.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u1 | skill=Python
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u1 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u2 | skill=React
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u2 | overall=64.9 | status=PARTIALLY VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u3 | skill=Kubernetes
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u3 | overall=38.5 | status=NOT VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u4 | skill=Go
+2026-06-24 10:55:04 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:145 | _parse_component_scores() | 'component_scores' missing or malformed in AI response. Using zeros.
+2026-06-24 10:55:04 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:240 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 10:55:04 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:240 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u4 | overall=0.0 | status=NOT VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u5 | skill=Go
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u5 | overall=100.0 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u6 | skill=Go
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u6 | overall=0.0 | status=NOT VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u7 | skill=Python
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u7 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_uid_42 | skill=Python
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_uid_42 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u8 | skill=Python
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u8 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u9 | skill=Python
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u9 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=101 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=101 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=101 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id= | skill=
+2026-06-24 10:55:04 | WARNING  | proofwork_ai.agents.skill_verifier | skill_verifier.py:102 | verify() | [SkillVerificationAgent] Validation failed: user_id cannot be empty.; skill cannot be empty.; challenge_title cannot be empty.; submission_text must be at least 10 characters.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:193 | verify_from_dict() | SkillVerificationAgent: Failed to parse input dict: 'skill'
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:133 | verify() | [SkillVerificationAgent] Groq API call failed: Groq API is down
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:133 | verify() | [SkillVerificationAgent] Groq API call failed: Invalid JSON
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 10:55:04 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 10:55:04 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_analyze_valid_input_succe0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_analyze_returns_skill_gap0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_analyze_returns_roadmap0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_analyze_returns_ai_reason0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_analyze_from_dict_basic0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_analyze_empty_skills_fail0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=[]
+2026-06-24 11:02:57 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:109 | analyze() | [SkillGapAgent] Validation failed: user_skills list cannot be empty.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_analyze_returns_correct_a0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_analyze_duration_non_nega0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_analyze_existing_skills_p0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_analyze_groq_failure_uses0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:02:57 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:192 | analyze() | [SkillGapAgent] AI roadmap generation failed; using deterministic fallback. Error: Groq is down
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:02:57 | ERROR    | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:265 | _load_market_data() | market_data.json not found at \nonexistent\path\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:126 | analyze() | [SkillGapAgent] No skill gaps detected — user has all top market skills.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_result_json_serializable0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_get_market_data_returns_d0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-2\test_user_has_all_market_skill0\market_data.json
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Docker', 'AWS', 'FastAPI', 'LangChain', 'LangGraph', 'Machine Learning', 'Kubernetes', 'React', 'TypeScript', 'Redis']
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:126 | analyze() | [SkillGapAgent] No skill gaps detected — user has all top market skills.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u1 | skill=Python
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u1 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u2 | skill=React
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u2 | overall=64.9 | status=PARTIALLY VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u3 | skill=Kubernetes
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u3 | overall=38.5 | status=NOT VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u4 | skill=Go
+2026-06-24 11:02:57 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:145 | _parse_component_scores() | 'component_scores' missing or malformed in AI response. Using zeros.
+2026-06-24 11:02:57 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:240 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:02:57 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:240 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u4 | overall=0.0 | status=NOT VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u5 | skill=Go
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u5 | overall=100.0 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u6 | skill=Go
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u6 | overall=0.0 | status=NOT VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u7 | skill=Python
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u7 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_uid_42 | skill=Python
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_uid_42 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u8 | skill=Python
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u8 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u9 | skill=Python
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u9 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=15ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=101 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=101 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=101 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id= | skill=
+2026-06-24 11:02:57 | WARNING  | proofwork_ai.agents.skill_verifier | skill_verifier.py:102 | verify() | [SkillVerificationAgent] Validation failed: user_id cannot be empty.; skill cannot be empty.; challenge_title cannot be empty.; submission_text must be at least 10 characters.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:193 | verify_from_dict() | SkillVerificationAgent: Failed to parse input dict: 'skill'
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:133 | verify() | [SkillVerificationAgent] Groq API call failed: Groq API is down
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:133 | verify() | [SkillVerificationAgent] Groq API call failed: Invalid JSON
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:02:57 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:02:57 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:04:49 | INFO     | proofwork_ai.services.groq_service | groq_service.py:87 | __init__() | GroqService initialized | model=llama-3.3-70b-versatile | max_tokens=2048
+2026-06-24 11:04:49 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:04:49 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 30 skills from C:\Users\SWATHA\OneDrive\Documents\Downloads\New folder\proofwork_ai\data\market_data.json
+2026-06-24 11:04:49 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_analyze_valid_input_succe0\market_data.json
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_analyze_returns_skill_gap0\market_data.json
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_analyze_returns_roadmap0\market_data.json
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_analyze_returns_ai_reason0\market_data.json
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_analyze_from_dict_basic0\market_data.json
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask']
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:42 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_analyze_empty_skills_fail0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=[]
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:109 | analyze() | [SkillGapAgent] Validation failed: user_skills list cannot be empty.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_analyze_returns_correct_a0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_analyze_duration_non_nega0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_analyze_existing_skills_p0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_analyze_groq_failure_uses0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:192 | analyze() | [SkillGapAgent] AI roadmap generation failed; using deterministic fallback. Error: Groq is down
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=16ms
+2026-06-24 11:12:43 | ERROR    | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:265 | _load_market_data() | market_data.json not found at \nonexistent\path\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:126 | analyze() | [SkillGapAgent] No skill gaps detected — user has all top market skills.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_result_json_serializable0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_get_market_data_returns_d0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_user_has_all_market_skill0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Docker', 'AWS', 'FastAPI', 'LangChain', 'LangGraph', 'Machine Learning', 'Kubernetes', 'React', 'TypeScript', 'Redis']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:126 | analyze() | [SkillGapAgent] No skill gaps detected — user has all top market skills.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 1 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_single_gap_no_leading_and0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 1 skill gaps: ['Docker']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=1 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 2 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_two_gaps_correct_conjunct0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 2 skill gaps: ['Docker', 'AWS']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=2 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 3 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-3\test_three_gaps_correct_list0\market_data.json
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Docker', 'FastAPI', 'AWS']
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u1 | skill=Python
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u1 | overall=74.9 | status=PARTIALLY VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u2 | skill=Docker
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u2 | overall=74.9 | status=PARTIALLY VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u1 | skill=Python
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u1 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u2 | skill=React
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u2 | overall=64.9 | status=PARTIALLY VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u3 | skill=Kubernetes
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u3 | overall=38.5 | status=NOT VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u4 | skill=Go
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:145 | _parse_component_scores() | 'component_scores' missing or malformed in AI response. Using zeros.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u4 | overall=0.0 | status=NOT VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u5 | skill=Go
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u5 | overall=100.0 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u6 | skill=Go
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u6 | overall=0.0 | status=NOT VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u7 | skill=Python
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u7 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_uid_42 | skill=Python
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_uid_42 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u8 | skill=Python
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u8 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u9 | skill=Python
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u9 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=101 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=101 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=101 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id= | skill=
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.agents.skill_verifier | skill_verifier.py:102 | verify() | [SkillVerificationAgent] Validation failed: user_id cannot be empty.; skill cannot be empty.; challenge_title cannot be empty.; submission_text must be at least 10 characters.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:193 | verify_from_dict() | SkillVerificationAgent: Failed to parse input dict: 'skill'
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:133 | verify() | [SkillVerificationAgent] Groq API call failed: Groq API is down
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:133 | verify() | [SkillVerificationAgent] Groq API call failed: Invalid JSON
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=15ms
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u_a | skill=Python
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u_a | overall=80.0 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u_b | skill=Go
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u_b | overall=80.0 | status=VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u_c | skill=Rust
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u_c | overall=50.0 | status=NOT VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u_d | skill=Kafka
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u_d | overall=50.0 | status=NOT VERIFIED
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u_e | skill=Python
+2026-06-24 11:12:43 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u_e | overall=100.0 | status=VERIFIED
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_analyze_valid_input_succe0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_analyze_returns_skill_gap0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_analyze_returns_roadmap0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_analyze_returns_ai_reason0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_analyze_from_dict_basic0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_analyze_empty_skills_fail0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=[]
+2026-06-24 11:13:22 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:109 | analyze() | [SkillGapAgent] Validation failed: user_skills list cannot be empty.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_analyze_returns_correct_a0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_analyze_duration_non_nega0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_analyze_existing_skills_p0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_analyze_groq_failure_uses0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:13:22 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:192 | analyze() | [SkillGapAgent] AI roadmap generation failed; using deterministic fallback. Error: Groq is down
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=15ms
+2026-06-24 11:13:22 | ERROR    | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:265 | _load_market_data() | market_data.json not found at \nonexistent\path\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:126 | analyze() | [SkillGapAgent] No skill gaps detected — user has all top market skills.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_result_json_serializable0\market_data.json
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=test_user | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'FastAPI']
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:13:22 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=0ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_get_market_data_returns_d0\market_data.json
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 10 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_user_has_all_market_skill0\market_data.json
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Docker', 'AWS', 'FastAPI', 'LangChain', 'LangGraph', 'Machine Learning', 'Kubernetes', 'React', 'TypeScript', 'Redis']
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:126 | analyze() | [SkillGapAgent] No skill gaps detected — user has all top market skills.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 1 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_single_gap_no_leading_and0\market_data.json
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 1 skill gaps: ['Docker']
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:192 | analyze() | [SkillGapAgent] AI roadmap generation failed; using deterministic fallback. Error: forced failure
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=1 | duration=0ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 2 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_two_gaps_correct_conjunct0\market_data.json
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 2 skill gaps: ['Docker', 'AWS']
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:192 | analyze() | [SkillGapAgent] AI roadmap generation failed; using deterministic fallback. Error: forced failure
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=2 | duration=0ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 3 skills from C:\Users\SWATHA\AppData\Local\Temp\pytest-of-SWETHA\pytest-4\test_three_gaps_correct_list0\market_data.json
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python']
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Docker', 'FastAPI', 'AWS']
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:192 | analyze() | [SkillGapAgent] AI roadmap generation failed; using deterministic fallback. Error: forced failure
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=15ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u1 | skill=Python
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u1 | overall=74.9 | status=PARTIALLY VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u2 | skill=Docker
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u2 | overall=74.9 | status=PARTIALLY VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u1 | skill=Python
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u1 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u2 | skill=React
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u2 | overall=64.9 | status=PARTIALLY VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u3 | skill=Kubernetes
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u3 | overall=38.5 | status=NOT VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u4 | skill=Go
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:145 | _parse_component_scores() | 'component_scores' missing or malformed in AI response. Using zeros.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u4 | overall=0.0 | status=NOT VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u5 | skill=Go
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u5 | overall=100.0 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u6 | skill=Go
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u6 | overall=0.0 | status=NOT VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u7 | skill=Python
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u7 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_uid_42 | skill=Python
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_uid_42 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u8 | skill=Python
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u8 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u9 | skill=Python
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u9 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=16ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=101 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=101 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=101 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id= | skill=
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.agents.skill_verifier | skill_verifier.py:102 | verify() | [SkillVerificationAgent] Validation failed: user_id cannot be empty.; skill cannot be empty.; challenge_title cannot be empty.; submission_text must be at least 10 characters.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:193 | verify_from_dict() | SkillVerificationAgent: Failed to parse input dict: 'skill'
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:133 | verify() | [SkillVerificationAgent] Groq API call failed: Groq API is down
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | ERROR    | proofwork_ai.agents.skill_verifier | skill_verifier.py:133 | verify() | [SkillVerificationAgent] Groq API call failed: Invalid JSON
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=test_user_001 | skill=Python Automation
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=test_user_001 | overall=84.8 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=84.8 | duration=0ms
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u_a | skill=Python
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u_a | overall=80.0 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u_b | skill=Go
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u_b | overall=80.0 | status=VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u_c | skill=Rust
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u_c | overall=50.0 | status=NOT VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u_d | skill=Kafka
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'reasoning' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'strengths' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | WARNING  | proofwork_ai.services.evaluation_engine | evaluation_engine.py:241 | _extract_list() | Field 'improvements' missing or non-string list in AI response. Using default.
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u_d | overall=50.0 | status=NOT VERIFIED
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=u_e | skill=Python
+2026-06-24 11:13:23 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=u_e | overall=100.0 | status=VERIFIED
+2026-06-24 11:25:21 | INFO     | proofwork_ai.services.groq_service | groq_service.py:87 | __init__() | GroqService initialized | model=llama-3.3-70b-versatile | max_tokens=2048
+2026-06-24 11:25:21 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:72 | __init__() | SkillVerificationAgent initialized.
+2026-06-24 11:25:21 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:260 | _load_market_data() | Market data loaded: 30 skills from C:\Users\SWATHA\OneDrive\Documents\Downloads\New folder\proofwork_ai\data\market_data.json
+2026-06-24 11:25:21 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:78 | __init__() | SkillGapAgent initialized.
+2026-06-24 11:25:56 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=101 | skill=Python Automation
+2026-06-24 11:25:58 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=101 | skill=Python Automation
+2026-06-24 11:25:59 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=101 | skill=Python Automation
+2026-06-24 11:25:59 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=2.61s | tokens_in=1155 | tokens_out=360
+2026-06-24 11:25:59 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:25:59 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=101 | skill=Python Automation
+2026-06-24 11:25:59 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=101 | overall=91.2 | status=VERIFIED
+2026-06-24 11:25:59 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=91.2 | duration=2625ms
+2026-06-24 11:26:00 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=1.75s | tokens_in=1155 | tokens_out=307
+2026-06-24 11:26:00 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:26:00 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=101 | skill=Python Automation
+2026-06-24 11:26:00 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=101 | overall=91.2 | status=VERIFIED
+2026-06-24 11:26:00 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=91.2 | duration=1750ms
+2026-06-24 11:26:01 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=2.23s | tokens_in=1155 | tokens_out=372
+2026-06-24 11:26:01 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:26:01 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=101 | skill=Python Automation
+2026-06-24 11:26:01 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=101 | overall=91.2 | status=VERIFIED
+2026-06-24 11:26:01 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=91.2 | duration=2234ms
+2026-06-24 11:26:05 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=101 | skill=Python Automation
+2026-06-24 11:26:08 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=2.94s | tokens_in=1155 | tokens_out=344
+2026-06-24 11:26:08 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:26:08 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=101 | skill=Python Automation
+2026-06-24 11:26:08 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=101 | overall=91.2 | status=VERIFIED
+2026-06-24 11:26:08 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=91.2 | duration=2938ms
+2026-06-24 11:27:18 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:27:18 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'PyTorch']
+2026-06-24 11:27:21 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=2.86s | tokens_in=880 | tokens_out=853
+2026-06-24 11:27:21 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:27:21 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=2860ms
+2026-06-24 11:28:50 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=1 | skill=Python , ML
+2026-06-24 11:28:53 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=2.09s | tokens_in=1152 | tokens_out=273
+2026-06-24 11:28:53 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:28:53 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=1 | skill=Python , ML
+2026-06-24 11:28:53 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=1 | overall=60.0 | status=PARTIALLY VERIFIED
+2026-06-24 11:28:53 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=PARTIALLY VERIFIED | score=60.0 | duration=2094ms
+2026-06-24 11:30:24 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:30:24 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'PyTorch']
+2026-06-24 11:30:31 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=7.14s | tokens_in=880 | tokens_out=859
+2026-06-24 11:30:31 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:30:31 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=7140ms
+2026-06-24 11:30:56 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:30:56 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'PyTorch']
+2026-06-24 11:31:00 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=3.38s | tokens_in=880 | tokens_out=840
+2026-06-24 11:31:00 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:31:00 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=3391ms
+2026-06-24 11:32:12 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=101 | skill=Python Automation
+2026-06-24 11:32:15 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=2.64s | tokens_in=1150 | tokens_out=373
+2026-06-24 11:32:15 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:32:15 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=101 | skill=Python Automation
+2026-06-24 11:32:15 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=101 | overall=93.4 | status=VERIFIED
+2026-06-24 11:32:15 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=93.4 | duration=2656ms
+2026-06-24 11:32:24 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=103 | skill=Python Automation
+2026-06-24 11:32:26 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=1.92s | tokens_in=1150 | tokens_out=317
+2026-06-24 11:32:26 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:32:26 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=103 | skill=Python Automation
+2026-06-24 11:32:26 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=103 | overall=92.9 | status=VERIFIED
+2026-06-24 11:32:26 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=92.9 | duration=1937ms
+2026-06-24 11:34:46 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:93 | verify() | [SkillVerificationAgent] Starting verification | user_id=1067 | skill=Full stack development
+2026-06-24 11:34:49 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=3.11s | tokens_in=1153 | tokens_out=341
+2026-06-24 11:34:49 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:131 | verify() | [SkillVerificationAgent] AI response received successfully.
+2026-06-24 11:34:49 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:88 | evaluate() | Evaluating submission | user_id=1067 | skill=Full stack development
+2026-06-24 11:34:49 | INFO     | proofwork_ai.services.evaluation_engine | evaluation_engine.py:120 | evaluate() | Evaluation complete | user_id=1067 | overall=91.2 | status=VERIFIED
+2026-06-24 11:34:49 | INFO     | proofwork_ai.agents.skill_verifier | skill_verifier.py:167 | verify() | [SkillVerificationAgent] Verification complete | status=VERIFIED | score=91.2 | duration=3109ms
+2026-06-24 11:35:37 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:99 | analyze() | [SkillGapAgent] Starting analysis | user_id=None | skills=['Python', 'Flask', 'SQL']
+2026-06-24 11:35:37 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:151 | analyze() | [SkillGapAgent] Identified 3 skill gaps: ['Machine Learning', 'Docker', 'PyTorch']
+2026-06-24 11:35:40 | INFO     | proofwork_ai.services.groq_service | groq_service.py:137 | chat_json() | Groq response received | attempt=1 | elapsed=3.00s | tokens_in=880 | tokens_out=901
+2026-06-24 11:35:40 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:189 | analyze() | [SkillGapAgent] AI roadmap and narrative generated successfully.
+2026-06-24 11:35:40 | INFO     | proofwork_ai.agents.skill_gap_agent | skill_gap_agent.py:214 | analyze() | [SkillGapAgent] Analysis complete | gaps=3 | duration=3000ms
